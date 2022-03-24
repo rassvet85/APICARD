@@ -1,0 +1,219 @@
+2022-03-17 15:35:19 pid:12861 Workerman[app.php] start in DEBUG mode
+2022-03-17 15:51:10 pid:12861 Workerman[app.php] stopping ...
+2022-03-17 15:51:10 pid:12861 Workerman[app.php] has been stopped
+2022-03-17 15:52:38 pid:12949 Workerman[app.php] start in DEBUG mode
+2022-03-17 15:53:08 pid:12949 Workerman[app.php] stopping ...
+2022-03-17 15:53:08 pid:12949 Workerman[app.php] has been stopped
+2022-03-17 15:53:09 pid:12955 Workerman[app.php] start in DEBUG mode
+2022-03-17 15:54:59 pid:12955 Workerman[app.php] stopping ...
+2022-03-17 15:54:59 pid:12955 Workerman[app.php] has been stopped
+2022-03-17 15:55:45 pid:12974 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:00:39 pid:12974 Workerman[app.php] stopping ...
+2022-03-17 16:00:39 pid:12974 Workerman[app.php] has been stopped
+2022-03-17 16:00:41 pid:13001 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:01:46 pid:13001 Workerman[app.php] stopping ...
+2022-03-17 16:01:46 pid:13001 Workerman[app.php] has been stopped
+2022-03-17 16:01:47 pid:13023 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:02:52 pid:13023 Workerman[app.php] stopping ...
+2022-03-17 16:02:52 pid:13023 Workerman[app.php] has been stopped
+2022-03-17 16:02:53 pid:13033 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:04:32 pid:13033 Workerman[app.php] stopping ...
+2022-03-17 16:04:32 pid:13033 Workerman[app.php] has been stopped
+2022-03-17 16:04:33 pid:13047 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:08:25 pid:13047 Workerman[app.php] stopping ...
+2022-03-17 16:08:25 pid:13047 Workerman[app.php] has been stopped
+2022-03-17 16:08:27 pid:13073 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:09:27 pid:13073 Workerman[app.php] stopping ...
+2022-03-17 16:09:27 pid:13073 Workerman[app.php] has been stopped
+2022-03-17 16:09:27 pid:13083 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:09:47 pid:13083 Workerman[app.php] stopping ...
+2022-03-17 16:09:47 pid:13083 Workerman[app.php] has been stopped
+2022-03-17 16:09:48 pid:13089 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:12:51 pid:13089 Workerman[app.php] stopping ...
+2022-03-17 16:12:51 pid:13089 Workerman[app.php] has been stopped
+2022-03-17 16:12:52 pid:13108 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:13:14 pid:13108 Workerman[app.php] stopping ...
+2022-03-17 16:13:14 pid:13108 Workerman[app.php] has been stopped
+2022-03-17 16:13:14 pid:13118 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:17:01 pid:13118 Workerman[app.php] stopping ...
+2022-03-17 16:17:01 pid:13118 Workerman[app.php] has been stopped
+2022-03-17 16:18:15 pid:13177 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:20:38 pid:13177 Workerman[app.php] stopping ...
+2022-03-17 16:20:38 pid:13177 Workerman[app.php] has been stopped
+2022-03-17 16:20:40 pid:13191 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:21:05 pid:13191 Workerman[app.php] stopping ...
+2022-03-17 16:21:05 pid:13191 Workerman[app.php] has been stopped
+2022-03-17 16:23:21 pid:13238 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:24:50 pid:13238 Workerman[app.php] stopping ...
+2022-03-17 16:24:50 pid:13238 Workerman[app.php] has been stopped
+2022-03-17 16:24:57 pid:13291 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:25:04 pid:13296 Worker[13296] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:04 pid:13291 worker[Comet v2.3.5:13296] exit with status 65280
+2022-03-17 16:25:04 pid:13293 Worker[13293] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:04 pid:13291 worker[Comet v2.3.5:13293] exit with status 65280
+2022-03-17 16:25:04 pid:13299 Worker[13299] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:04 pid:13291 worker[Comet v2.3.5:13299] exit with status 65280
+2022-03-17 16:25:04 pid:13300 Worker[13300] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:04 pid:13291 worker[Comet v2.3.5:13300] exit with status 65280
+2022-03-17 16:25:04 pid:13301 Worker[13301] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:04 pid:13291 worker[Comet v2.3.5:13301] exit with status 65280
+2022-03-17 16:25:04 pid:13302 Worker[13302] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:04 pid:13291 worker[Comet v2.3.5:13302] exit with status 65280
+2022-03-17 16:25:05 pid:13303 Worker[13303] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:05 pid:13291 worker[Comet v2.3.5:13303] exit with status 65280
+2022-03-17 16:25:05 pid:13304 Worker[13304] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:05 pid:13291 worker[Comet v2.3.5:13304] exit with status 65280
+2022-03-17 16:25:05 pid:13305 Worker[13305] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:05 pid:13291 worker[Comet v2.3.5:13305] exit with status 65280
+2022-03-17 16:25:05 pid:13306 Worker[13306] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:05 pid:13291 worker[Comet v2.3.5:13306] exit with status 65280
+2022-03-17 16:25:07 pid:13307 Worker[13307] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:07 pid:13291 worker[Comet v2.3.5:13307] exit with status 65280
+2022-03-17 16:25:07 pid:13308 Worker[13308] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:07 pid:13291 worker[Comet v2.3.5:13308] exit with status 65280
+2022-03-17 16:25:07 pid:13309 Worker[13309] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:07 pid:13291 worker[Comet v2.3.5:13309] exit with status 65280
+2022-03-17 16:25:07 pid:13310 Worker[13310] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:07 pid:13291 worker[Comet v2.3.5:13310] exit with status 65280
+2022-03-17 16:25:07 pid:13311 Worker[13311] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:07 pid:13291 worker[Comet v2.3.5:13311] exit with status 65280
+2022-03-17 16:25:07 pid:13312 Worker[13312] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:07 pid:13291 worker[Comet v2.3.5:13312] exit with status 65280
+2022-03-17 16:25:07 pid:13313 Worker[13313] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:07 pid:13291 worker[Comet v2.3.5:13313] exit with status 65280
+2022-03-17 16:25:07 pid:13314 Worker[13314] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:07 pid:13291 worker[Comet v2.3.5:13314] exit with status 65280
+2022-03-17 16:25:07 pid:13315 Worker[13315] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:07 pid:13291 worker[Comet v2.3.5:13315] exit with status 65280
+2022-03-17 16:25:07 pid:13316 Worker[13316] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:25:08 pid:13291 worker[Comet v2.3.5:13316] exit with status 65280
+2022-03-17 16:26:05 pid:13291 Workerman[app.php] stopping ...
+2022-03-17 16:26:05 pid:13291 Workerman[app.php] has been stopped
+2022-03-17 16:26:05 pid:13338 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:26:09 pid:13343 Worker[13343] process terminated with ERROR: E_COMPILE_ERROR "strict_types declaration must be the very first statement in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:09 pid:13338 worker[Comet v2.3.5:13343] exit with status 65280
+2022-03-17 16:26:09 pid:13341 Worker[13341] process terminated with ERROR: E_COMPILE_ERROR "strict_types declaration must be the very first statement in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:09 pid:13338 worker[Comet v2.3.5:13341] exit with status 65280
+2022-03-17 16:26:09 pid:13344 Worker[13344] process terminated with ERROR: E_COMPILE_ERROR "strict_types declaration must be the very first statement in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:09 pid:13338 worker[Comet v2.3.5:13344] exit with status 65280
+2022-03-17 16:26:09 pid:13345 Worker[13345] process terminated with ERROR: E_COMPILE_ERROR "strict_types declaration must be the very first statement in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:09 pid:13338 worker[Comet v2.3.5:13345] exit with status 65280
+2022-03-17 16:26:09 pid:13346 Worker[13346] process terminated with ERROR: E_COMPILE_ERROR "strict_types declaration must be the very first statement in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:09 pid:13338 worker[Comet v2.3.5:13346] exit with status 65280
+2022-03-17 16:26:09 pid:13347 Worker[13347] process terminated with ERROR: E_COMPILE_ERROR "strict_types declaration must be the very first statement in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:09 pid:13338 worker[Comet v2.3.5:13347] exit with status 65280
+2022-03-17 16:26:09 pid:13348 Worker[13348] process terminated with ERROR: E_COMPILE_ERROR "strict_types declaration must be the very first statement in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:09 pid:13338 worker[Comet v2.3.5:13348] exit with status 65280
+2022-03-17 16:26:09 pid:13349 Worker[13349] process terminated with ERROR: E_COMPILE_ERROR "strict_types declaration must be the very first statement in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:09 pid:13338 worker[Comet v2.3.5:13349] exit with status 65280
+2022-03-17 16:26:09 pid:13350 Worker[13350] process terminated with ERROR: E_COMPILE_ERROR "strict_types declaration must be the very first statement in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:09 pid:13338 worker[Comet v2.3.5:13350] exit with status 65280
+2022-03-17 16:26:09 pid:13351 Worker[13351] process terminated with ERROR: E_COMPILE_ERROR "strict_types declaration must be the very first statement in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:09 pid:13338 worker[Comet v2.3.5:13351] exit with status 65280
+2022-03-17 16:26:25 pid:13352 Worker[13352] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:25 pid:13338 worker[Comet v2.3.5:13352] exit with status 65280
+2022-03-17 16:26:25 pid:13353 Worker[13353] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:25 pid:13338 worker[Comet v2.3.5:13353] exit with status 65280
+2022-03-17 16:26:25 pid:13363 Worker[13363] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:25 pid:13338 worker[Comet v2.3.5:13363] exit with status 65280
+2022-03-17 16:26:25 pid:13364 Worker[13364] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:25 pid:13338 worker[Comet v2.3.5:13364] exit with status 65280
+2022-03-17 16:26:25 pid:13365 Worker[13365] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:25 pid:13338 worker[Comet v2.3.5:13365] exit with status 65280
+2022-03-17 16:26:25 pid:13366 Worker[13366] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:25 pid:13338 worker[Comet v2.3.5:13366] exit with status 65280
+2022-03-17 16:26:25 pid:13367 Worker[13367] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:25 pid:13338 worker[Comet v2.3.5:13367] exit with status 65280
+2022-03-17 16:26:25 pid:13368 Worker[13368] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:25 pid:13338 worker[Comet v2.3.5:13368] exit with status 65280
+2022-03-17 16:26:25 pid:13369 Worker[13369] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:25 pid:13338 worker[Comet v2.3.5:13369] exit with status 65280
+2022-03-17 16:26:25 pid:13370 Worker[13370] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:26:25 pid:13338 worker[Comet v2.3.5:13370] exit with status 65280
+2022-03-17 16:26:37 pid:13338 Workerman[app.php] stopping ...
+2022-03-17 16:26:37 pid:13338 Workerman[app.php] has been stopped
+2022-03-17 16:28:17 pid:13399 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:28:17 pid:13403 Worker[13403] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:28:17 pid:13399 worker[Comet v2.3.5:13403] exit with status 65280
+2022-03-17 16:28:17 pid:13404 Worker[13404] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:28:17 pid:13399 worker[Comet v2.3.5:13404] exit with status 65280
+2022-03-17 16:28:17 pid:13405 Worker[13405] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:28:17 pid:13399 worker[Comet v2.3.5:13405] exit with status 65280
+2022-03-17 16:28:17 pid:13406 Worker[13406] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:28:17 pid:13399 worker[Comet v2.3.5:13406] exit with status 65280
+2022-03-17 16:28:17 pid:13407 Worker[13407] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:28:17 pid:13399 worker[Comet v2.3.5:13407] exit with status 65280
+2022-03-17 16:28:17 pid:13408 Worker[13408] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:28:17 pid:13399 worker[Comet v2.3.5:13408] exit with status 65280
+2022-03-17 16:28:17 pid:13409 Worker[13409] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:28:17 pid:13399 worker[Comet v2.3.5:13409] exit with status 65280
+2022-03-17 16:28:17 pid:13410 Worker[13410] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:28:17 pid:13399 worker[Comet v2.3.5:13410] exit with status 65280
+2022-03-17 16:28:17 pid:13411 Worker[13411] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:28:17 pid:13399 worker[Comet v2.3.5:13411] exit with status 65280
+2022-03-17 16:28:17 pid:13412 Worker[13412] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:28:17 pid:13399 worker[Comet v2.3.5:13412] exit with status 65280
+2022-03-17 16:31:46 pid:13413 Worker[13413] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 3"
+2022-03-17 16:31:46 pid:13399 worker[Comet v2.3.5:13413] exit with status 65280
+2022-03-17 16:31:46 pid:13414 Worker[13414] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 3"
+2022-03-17 16:31:46 pid:13399 worker[Comet v2.3.5:13414] exit with status 65280
+2022-03-17 16:31:46 pid:13448 Worker[13448] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 3"
+2022-03-17 16:31:46 pid:13399 worker[Comet v2.3.5:13448] exit with status 65280
+2022-03-17 16:31:46 pid:13449 Worker[13449] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 3"
+2022-03-17 16:31:46 pid:13399 worker[Comet v2.3.5:13449] exit with status 65280
+2022-03-17 16:31:46 pid:13450 Worker[13450] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 3"
+2022-03-17 16:31:46 pid:13399 worker[Comet v2.3.5:13450] exit with status 65280
+2022-03-17 16:31:46 pid:13451 Worker[13451] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 3"
+2022-03-17 16:31:46 pid:13399 worker[Comet v2.3.5:13451] exit with status 65280
+2022-03-17 16:31:46 pid:13452 Worker[13452] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 3"
+2022-03-17 16:31:46 pid:13399 worker[Comet v2.3.5:13452] exit with status 65280
+2022-03-17 16:31:46 pid:13453 Worker[13453] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 3"
+2022-03-17 16:31:46 pid:13399 worker[Comet v2.3.5:13453] exit with status 65280
+2022-03-17 16:31:47 pid:13454 Worker[13454] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 3"
+2022-03-17 16:31:47 pid:13399 worker[Comet v2.3.5:13454] exit with status 65280
+2022-03-17 16:31:47 pid:13455 Worker[13455] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 3"
+2022-03-17 16:31:47 pid:13399 worker[Comet v2.3.5:13455] exit with status 65280
+2022-03-17 16:32:49 pid:13456 Worker[13456] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:32:49 pid:13399 worker[Comet v2.3.5:13456] exit with status 65280
+2022-03-17 16:32:49 pid:13457 Worker[13457] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:32:49 pid:13399 worker[Comet v2.3.5:13457] exit with status 65280
+2022-03-17 16:32:50 pid:13468 Worker[13468] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:32:50 pid:13399 worker[Comet v2.3.5:13468] exit with status 65280
+2022-03-17 16:32:50 pid:13469 Worker[13469] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:32:50 pid:13399 worker[Comet v2.3.5:13469] exit with status 65280
+2022-03-17 16:32:50 pid:13470 Worker[13470] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:32:50 pid:13399 worker[Comet v2.3.5:13470] exit with status 65280
+2022-03-17 16:32:50 pid:13471 Worker[13471] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:32:50 pid:13399 worker[Comet v2.3.5:13471] exit with status 65280
+2022-03-17 16:32:50 pid:13472 Worker[13472] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:32:50 pid:13399 worker[Comet v2.3.5:13472] exit with status 65280
+2022-03-17 16:32:50 pid:13473 Worker[13473] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:32:50 pid:13399 worker[Comet v2.3.5:13473] exit with status 65280
+2022-03-17 16:32:50 pid:13474 Worker[13474] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:32:50 pid:13399 worker[Comet v2.3.5:13474] exit with status 65280
+2022-03-17 16:32:50 pid:13475 Worker[13475] process terminated with ERROR: E_COMPILE_ERROR "Namespace declaration statement has to be the very first statement or after any declare call in the script in /var/www/testapi/src/Controllers/Controllertest.php on line 2"
+2022-03-17 16:32:50 pid:13399 worker[Comet v2.3.5:13475] exit with status 65280
+2022-03-17 16:49:13 pid:13399 Workerman[app.php] stopping ...
+2022-03-17 16:49:13 pid:13399 Workerman[app.php] has been stopped
+2022-03-17 16:49:15 pid:13660 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:54:34 pid:13660 Workerman[app.php] stopping ...
+2022-03-17 16:54:34 pid:13660 Workerman[app.php] has been stopped
+2022-03-17 16:54:35 pid:13689 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:56:24 pid:13689 Workerman[app.php] stopping ...
+2022-03-17 16:56:24 pid:13689 Workerman[app.php] has been stopped
+2022-03-17 16:56:25 pid:13704 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:56:33 pid:13704 Workerman[app.php] stopping ...
+2022-03-17 16:56:33 pid:13704 Workerman[app.php] has been stopped
+2022-03-17 16:57:13 pid:13712 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:57:35 pid:13712 Workerman[app.php] stopping ...
+2022-03-17 16:57:35 pid:13712 Workerman[app.php] has been stopped
+2022-03-17 16:58:31 pid:13724 Workerman[app.php] start in DEBUG mode
+2022-03-17 16:59:51 pid:13724 Workerman[app.php] stopping ...
+2022-03-17 16:59:51 pid:13724 Workerman[app.php] has been stopped
+2022-03-17 16:59:52 pid:13735 Workerman[app.php] start in DEBUG mode
+2022-03-17 17:00:10 pid:13735 Workerman[app.php] stopping ...
+2022-03-17 17:00:10 pid:13735 Workerman[app.php] has been stopped
+2022-03-17 17:00:11 pid:13741 Workerman[app.php] start in DEBUG mode
+2022-03-17 17:00:29 pid:13741 Workerman[app.php] stopping ...
+2022-03-17 17:00:29 pid:13741 Workerman[app.php] has been stopped
+2022-03-17 17:00:30 pid:13751 Workerman[app.php] start in DEBUG mode

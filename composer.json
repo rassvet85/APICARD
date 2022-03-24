@@ -1,0 +1,11 @@
+{
+    "require": {
+        "gotzmann/comet": "^2.3",
+        "monolog/monolog": "2.4.0",
+        "ext-ctype": "*",
+        "ext-openssl": "*"
+    },
+	"autoload": {
+        "psr-4": { "App\\": "src/" }
+    }
+}

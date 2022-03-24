@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6eaca650-a86a-4605-a396-57c9ea9fdfa6" name="apitest">
+        <fileTransfer rootFolder="/var/www/testapi" accessType="SFTP" host="135.181.91.104" port="22" sshConfigId="bc9ec5d4-82a1-4d10-aa5d-7122bc73665a" sshConfig="root@135.181.91.104:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
